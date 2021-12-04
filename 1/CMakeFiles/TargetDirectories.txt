@@ -1,0 +1,3 @@
+/home/aran/桌面/1/CMakeFiles/rebuild_cache.dir
+/home/aran/桌面/1/CMakeFiles/edit_cache.dir
+/home/aran/桌面/1/CMakeFiles/agentspark.dir
